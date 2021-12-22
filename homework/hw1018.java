@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class hw1018 {
     public static void main(String args[]) throws Exception {
         while (true) {
