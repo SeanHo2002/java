@@ -9,6 +9,7 @@ public class hw1018 {
             Thread.sleep(100);
             System.out.print("\r/");
             Thread.sleep(100);
+            //test
         }
     }
 }
